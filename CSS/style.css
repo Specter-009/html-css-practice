@@ -1,9 +1,17 @@
 body{
-    background-color: bisque;
+    background-image: url(targaryen.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 }
 
 p{
     color: black;
+    background: linear-gradient(to right,red, gold);
+    /* use (to right, left, top, bottom) to change the direction of the gradient. */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #red{
@@ -26,6 +34,7 @@ p{
 }
 
 h1{
+    color: antiquewhite;
     font-family: "Press Start 2P";
     font-style: italic;
     font-weight: bolder;
@@ -65,6 +74,7 @@ h1{
 }
 
 h2{
+    color: antiquewhite;
     border-top-style: dotted;
 	border-bottom-style: dotted;
 	border-left-style:double;
