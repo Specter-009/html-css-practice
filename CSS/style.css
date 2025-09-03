@@ -14,6 +14,20 @@ p{
     color:blue;
 }
 
+#yellow{
+    font-family: "consolas", "sans-serif"; 
+    /* putting more than one font-family is for contingency purposes. 
+    (in the event that the browser doesn't support that font-family) */
+}
+
 .white{
     background-color: white;
+}
+
+h1{
+    font-family: "Press Start 2P";
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: red underline;
+    font-size: 3rem;
 }
