@@ -81,3 +81,30 @@ h2{
 	border-left-width: 10px;
 	border-left-color: silver;
 }
+
+
+/* MARGINS */
+#box1{
+    border: 5px solid;
+    background-color: brown;
+    color: antiquewhite;
+    height: 250px;
+    width: 250px;
+    font-size: 22px;
+    /* margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#box2{
+    border: 5px solid;
+    background-color: burlywood;
+    color: black;
+    height: 250px;
+    width: 250px;
+    font-size: 22px;
+    margin: auto;
+    padding: 10px;
+}
