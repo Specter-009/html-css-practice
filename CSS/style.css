@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+p{
+    color: black;
+}
+
+#red{
+    color: crimson;
+}
+
+#blue{
+    color:blue;
+}
+
+.white{
+    background-color: white;
+}
